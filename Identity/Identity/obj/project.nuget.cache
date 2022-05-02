@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HuyKaQYcU2gWN7LuyyVNaRYyZIyyP0R7GIisbDRkXcidC9OpqxWnVWegJVXmM7upwA6n1igate+ilzdAiGSLIQ==",
+  "dgSpecHash": "Vc+nlvZNKhw7H5UEVgWH44y93PgBB8UWrAjltKOTxrB63gA/4zRlxKRoKkpcb86jNO+X2nkc5YesfTrNkftDow==",
   "success": true,
-  "projectFilePath": "D:\\myprojects\\udemy\\identity\\Identity\\Identity\\Identity.csproj",
+  "projectFilePath": "D:\\myprojects\\udemy\\identity\\Identity\\Identity\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahuk2\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ahuk2\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
@@ -10,6 +10,7 @@
     "C:\\Users\\ahuk2\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ahuk2\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
     "C:\\Users\\ahuk2\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\ahuk2\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\ahuk2\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\ahuk2\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
     "C:\\Users\\ahuk2\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",

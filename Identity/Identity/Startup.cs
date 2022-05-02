@@ -45,6 +45,7 @@ namespace WebApp_UnderTheHood
             {
                 client.BaseAddress = new Uri("https://localhost:7001/");
             });
+          
 
             services.AddRazorPages();
         }
@@ -69,6 +70,7 @@ namespace WebApp_UnderTheHood
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();
+          
 
             app.UseEndpoints(endpoints =>
             {
